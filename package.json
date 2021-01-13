@@ -1,0 +1,19 @@
+{
+  "name": "test-pack",
+  "version": "1.0.0",
+  "description": "\"I'm just playing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPabloOS/test-pack.git"
+  },
+  "author": "\"Juan Olvera\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPabloOS/test-pack/issues"
+  },
+  "homepage": "https://github.com/JuanPabloOS/test-pack#readme"
+}
