@@ -1,6 +1,6 @@
 {
   "name": "@jpoes/test-pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "just trying to leran how to configure this",
   "main": "dist/index.js",
   "scripts": {
