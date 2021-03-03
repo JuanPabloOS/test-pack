@@ -1,11 +1,12 @@
 {
   "name": "@jpoes/test-pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just trying to leran how to configure this",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production --config config/webpack.config.js --progress"
+
   },
   "repository": {
     "type": "git",
@@ -50,8 +51,5 @@
   },
   "files": [
     "dist"
-  ],
-  "dependencies": {
-    "styled-components": "^5.2.1"
-  }
+  ]
 }

@@ -1,2 +1,2 @@
-export {Button} from './Button';
-export {Spacer} from './Spacer';
+export * from './Button';
+export * from './Spacer';
